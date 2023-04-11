@@ -1,4 +1,4 @@
 # EnergyAnalysis
 Assignment submitted as part of MSc Course @ UCD. 
 
-Using the API prvodied by the US Energy Information Administration, I took at look at the recent changes in usage and price of Electricity and Natural Gas since the beginning of the decade.
+Using the API provdied by the US Energy Information Administration, I take a look at the recent changes in energy usage trends and the price of Electricity & Natural Gas since 2000.
